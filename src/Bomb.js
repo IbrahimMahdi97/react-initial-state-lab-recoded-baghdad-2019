@@ -12,7 +12,7 @@ class Bomb extends React.Component {
   }
   
   render() {
-    const message = 
+    const message = this.
     return (
       <div>{message}</div>
       )
